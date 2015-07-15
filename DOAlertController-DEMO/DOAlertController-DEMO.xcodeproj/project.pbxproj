@@ -167,6 +167,7 @@
 		4F47CAA31AE26BD100BF71E4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Daiki Okumura";
 				TargetAttributes = {
